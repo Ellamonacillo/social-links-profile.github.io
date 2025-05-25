@@ -20,8 +20,8 @@ Social Links Profile
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-social-links-profile-KuYdHOVk1G)
+- Live Site URL: [Github Pages](https://ellamonacillo.github.io/social-links-profile.github.io/)
 
 ## My Process
 
